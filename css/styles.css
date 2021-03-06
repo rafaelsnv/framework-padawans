@@ -1,0 +1,41 @@
+body{
+    background-image: url(/img/Background/pattern.jpg);
+}
+
+
+/* Cabeçalho */
+
+header{
+    background-color: #c0c0c0;
+}
+
+header img{
+    width: 10%;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.nav li a{
+    font-size: 0.92em;
+    color: black;
+}
+
+.nav li a:hover{
+    color: aliceblue;
+}
+
+/* Entrevistas & Making Of */
+.conteudo {
+    background-color: #e1e1e1;
+}
+
+
+/* Rodape */
+
+footer {
+    background-color: #e1e1e1;
+}
+
+footer img{
+    width: 100%;    
+}
